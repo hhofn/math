@@ -1,4 +1,3 @@
-```markdown
 ## Operations on Sets
 
 ### 1. Union
@@ -54,4 +53,3 @@ A set \(A\) is a subset of set \(B\) if every element of \(A\) is also an elemen
 A set \(A\) is a proper subset of set \(B\) if \(A\) is a subset of \(B\) but \(A\) is not equal to \(B\).
 
 \[ A \subset B \]
-```
